@@ -1,0 +1,30 @@
+.table{
+    margin: 2px;
+    width: 1170px;
+    height: auto;
+}
+.form-control{
+    width: 656px;
+    height: 42px;
+    padding: 4px, 8px, 4px, 8px;
+    border-radius: 8px;
+    border: 1px;
+    gap: 8px;
+
+}
+td{
+   text-align: center;
+   vertical-align: middle;
+   white-space: no-wrap;
+}
+.accepted{
+    width: 75px;
+height: 40px;
+padding: 10px;
+border-radius: 8px;
+gap: 10px;
+background: #E4FCEC;
+display: flex;
+align-items: center;
+padding:4px;
+}
